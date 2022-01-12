@@ -22,8 +22,10 @@ public class ObterUsuarios {
 		
 		List<Usuario> usuarios = query.getResultList();
 		
+		for (Usuario valor:usuarios) {
 		
-		
+		System.out.println(valor);
+		}
 		
 		
 	}

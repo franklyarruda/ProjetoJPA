@@ -1,7 +1,6 @@
 package teste.basico;
 
 import java.util.List;
-import java.util.Scanner;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
